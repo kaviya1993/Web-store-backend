@@ -1,0 +1,9 @@
+mobile\back\demo\search\SearchResources.class
+mobile\back\demo\search\SeachController.class
+mobile\back\demo\search\BrandEntity.class
+mobile\back\demo\Application.class
+mobile\back\demo\config\SwaggerConfig.class
+mobile\back\demo\search\MobileEntity.class
+mobile\back\demo\models\ResponseDTO.class
+mobile\back\demo\search\SearchResourcesImpl.class
+mobile\back\demo\search\PhoneSearchRepo.class
